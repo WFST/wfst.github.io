@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>list on WFST</title>
+    <link>https://wfst.github.io/tags/list/</link>
+    <description>Recent content in list on WFST</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 06 Sep 2022 11:07:10 +0600</lastBuildDate><atom:link href="https://wfst.github.io/tags/list/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>list-1</title>
+      <link>https://wfst.github.io/news-and-meetings/news/list-test/</link>
+      <pubDate>Tue, 06 Sep 2022 11:07:10 +0600</pubDate>
+      
+      <guid>https://wfst.github.io/news-and-meetings/news/list-test/</guid>
+      <description>test type: &amp;ldquo;list&amp;rdquo; Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
+    </item>
+    
+  </channel>
+</rss>
