@@ -527,6 +527,41 @@
   </div>
 </header>
 
+<script type="text/javascript"
+        async
+        src="https://cdn.bootcss.com/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$'], ['\[\[','\]\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+});
+
+MathJax.Hub.Queue(function() {
+    
+    
+    
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+});
+</script>
+<style>
+code.has-jax {
+    font: inherit;
+    font-size: 100%;
+    background: inherit;
+    border: inherit;
+    color: #515151;
+}
+</style>
+
 	
 	
 <div class="preloader">
@@ -585,7 +620,7 @@
             </ul>
           </div>
           <div class="post-content">
-            <p></p>
+            <p>A near-Earth Object (NEO) is by definition any object with perihelion q$\leq$1.</p>
             <a href="/science/asteroids-and-the-solar-system/" class="btn btn-main">Continue reading</a>
           </div>
         </div><div class="post">
@@ -627,7 +662,7 @@
             </ul>
           </div>
           <div class="post-content">
-            <p></p>
+            <p>Galaxy Formation The WFST shear catalog is one of the products of galaxy formation study with position, galaxy shape, photometric redshift and calibrated biases as a function of resolution and SNR.</p>
             <a href="/science/galaxy-formation-and-cosmology/" class="btn btn-main">Continue reading</a>
           </div>
         </div><div class="post">
@@ -648,7 +683,7 @@
             </ul>
           </div>
           <div class="post-content">
-            <p></p>
+            <p>Star Formation Young Stars The mass accretion rate ($\dot{M}_{\rm acc}$) is a crucial parameter for understanding the evolution and dissipation of circumstellar disks, and therefore also for understanding the process of planet formation.</p>
             <a href="/science/milky-way-and-its-satellites/" class="btn btn-main">Continue reading</a>
           </div>
         </div>
@@ -666,7 +701,7 @@
       </a>
       <div class="media-body">
         <h4 class="media-heading"><a href="/about/camera/">Camera📷</a></h4>
-        <p>aaaa University of Science and Technology of …</p>
+        <p>Camera University of Science and Technology of …</p>
       </div>
     </div>
     

@@ -527,6 +527,41 @@
   </div>
 </header>
 
+<script type="text/javascript"
+        async
+        src="https://cdn.bootcss.com/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$'], ['\[\[','\]\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+});
+
+MathJax.Hub.Queue(function() {
+    
+    
+    
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+});
+</script>
+<style>
+code.has-jax {
+    font: inherit;
+    font-size: 100%;
+    background: inherit;
+    border: inherit;
+    color: #515151;
+}
+</style>
+
 	
 	
 <div class="preloader">
@@ -648,7 +683,7 @@
             </ul>
           </div>
           <div class="post-content">
-            <p></p>
+            <p>In this subsection we introduce two major programs of the WFST 6-years survey, the Wide-field Survey and the Deep High-cadence $u$-band Survey, which are designed to meet the constraints imposed by major science objectives of WFST by coordinating the survey depth, area, and cadence.</p>
             <a href="/survey-and-data/survey-strategy-and-plan/" class="btn btn-main">Continue reading</a>
           </div>
         </div>
@@ -666,7 +701,7 @@
       </a>
       <div class="media-body">
         <h4 class="media-heading"><a href="/about/camera/">Camera📷</a></h4>
-        <p>aaaa University of Science and Technology of …</p>
+        <p>Camera University of Science and Technology of …</p>
       </div>
     </div>
     

@@ -527,6 +527,41 @@
   </div>
 </header>
 
+<script type="text/javascript"
+        async
+        src="https://cdn.bootcss.com/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$'], ['\[\[','\]\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+});
+
+MathJax.Hub.Queue(function() {
+    
+    
+    
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+});
+</script>
+<style>
+code.has-jax {
+    font: inherit;
+    font-size: 100%;
+    background: inherit;
+    border: inherit;
+    color: #515151;
+}
+</style>
+
 	
 	
 <div class="preloader">
@@ -571,6 +606,27 @@
           <div class="post-media post-thumb">
             
           </div>
+          <h3 class="post-title"><a href="/education-and-outreach/multimedia/"></a></h3>
+          <div class="post-meta">
+            <ul>
+              <li><i class="fas fa-calendar-week"></i> January 1, 1</li>
+              <li><i class="fas fa-user"></i>
+                Posted by
+                <a class="text-primary" href="/author/"></a>
+              </li>
+              <li><i class="fas fa-tags"></i>
+                
+              </li>
+            </ul>
+          </div>
+          <div class="post-content">
+            <p></p>
+            <a href="/education-and-outreach/multimedia/" class="btn btn-main">Continue reading</a>
+          </div>
+        </div><div class="post">
+          <div class="post-media post-thumb">
+            
+          </div>
           <h3 class="post-title"><a href="/education-and-outreach/education/">education</a></h3>
           <div class="post-meta">
             <ul>
@@ -588,27 +644,6 @@
             <p></p>
             <a href="/education-and-outreach/education/" class="btn btn-main">Continue reading</a>
           </div>
-        </div><div class="post">
-          <div class="post-media post-thumb">
-            
-          </div>
-          <h3 class="post-title"><a href="/education-and-outreach/multimedia/">multimedia</a></h3>
-          <div class="post-meta">
-            <ul>
-              <li><i class="fas fa-calendar-week"></i> September 6, 2022</li>
-              <li><i class="fas fa-user"></i>
-                Posted by
-                <a class="text-primary" href="/author/"></a>
-              </li>
-              <li><i class="fas fa-tags"></i>
-                
-              </li>
-            </ul>
-          </div>
-          <div class="post-content">
-            <p></p>
-            <a href="/education-and-outreach/multimedia/" class="btn btn-main">Continue reading</a>
-          </div>
         </div>
 
         
@@ -624,7 +659,7 @@
       </a>
       <div class="media-body">
         <h4 class="media-heading"><a href="/about/camera/">Camera📷</a></h4>
-        <p>aaaa University of Science and Technology of …</p>
+        <p>Camera University of Science and Technology of …</p>
       </div>
     </div>
     

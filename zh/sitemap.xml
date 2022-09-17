@@ -41,6 +41,19 @@
                 href="https://wfst.github.io/zh/science/asteroids-and-the-solar-system/"
                 />
   </url><url>
+    <loc>https://wfst.github.io/zh/education-and-outreach/multimedia/</loc>
+    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/education-and-outreach/multimedia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/education-and-outreach/multimedia/"
+                />
+  </url><url>
     <loc>https://wfst.github.io/zh/science/time-domain/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
     <xhtml:link
@@ -197,17 +210,17 @@
                 href="https://wfst.github.io/zh/survey-and-data/data-reduction-and-management/"
                 />
   </url><url>
-    <loc>https://wfst.github.io/zh/education-and-outreach/multimedia/</loc>
+    <loc>https://wfst.github.io/zh/education-and-outreach/multimedia/picture/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wfst.github.io/education-and-outreach/multimedia/"
+                href="https://wfst.github.io/education-and-outreach/multimedia/picture/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://wfst.github.io/zh/education-and-outreach/multimedia/"
+                href="https://wfst.github.io/zh/education-and-outreach/multimedia/picture/"
                 />
   </url><url>
     <loc>https://wfst.github.io/zh/survey-and-data/survey-strategy-and-plan/</loc>
@@ -260,6 +273,19 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://wfst.github.io/zh/science/galaxy-formation-and-cosmology/"
+                />
+  </url><url>
+    <loc>https://wfst.github.io/zh/education-and-outreach/multimedia/video/</loc>
+    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/education-and-outreach/multimedia/video/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/education-and-outreach/multimedia/video/"
                 />
   </url><url>
     <loc>https://wfst.github.io/zh/science/milky-way-and-its-satellites/</loc>
