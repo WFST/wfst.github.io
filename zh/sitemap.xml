@@ -41,32 +41,6 @@
                 href="https://wfst.github.io/zh/science/asteroids-and-the-solar-system/"
                 />
   </url><url>
-    <loc>https://wfst.github.io/zh/education-and-outreach/multimedia/</loc>
-    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wfst.github.io/education-and-outreach/multimedia/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://wfst.github.io/zh/education-and-outreach/multimedia/"
-                />
-  </url><url>
-    <loc>https://wfst.github.io/zh/science/time-domain/</loc>
-    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wfst.github.io/science/time-domain/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://wfst.github.io/zh/science/time-domain/"
-                />
-  </url><url>
     <loc>https://wfst.github.io/zh/education-and-outreach/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
     <xhtml:link
@@ -223,6 +197,19 @@
                 href="https://wfst.github.io/zh/education-and-outreach/multimedia/picture/"
                 />
   </url><url>
+    <loc>https://wfst.github.io/zh/education-and-outreach/multimedia/</loc>
+    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/education-and-outreach/multimedia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/education-and-outreach/multimedia/"
+                />
+  </url><url>
     <loc>https://wfst.github.io/zh/survey-and-data/survey-strategy-and-plan/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
     <xhtml:link
@@ -260,6 +247,32 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://wfst.github.io/zh/survey-and-data/data-release/"
+                />
+  </url><url>
+    <loc>https://wfst.github.io/zh/news-and-meetings/news/</loc>
+    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/news-and-meetings/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/news-and-meetings/news/"
+                />
+  </url><url>
+    <loc>https://wfst.github.io/zh/science/time-domain/</loc>
+    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/science/time-domain/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/science/time-domain/"
                 />
   </url><url>
     <loc>https://wfst.github.io/zh/science/galaxy-formation-and-cosmology/</loc>
@@ -364,19 +377,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://wfst.github.io/zh/about/camera/"
-                />
-  </url><url>
-    <loc>https://wfst.github.io/zh/news-and-meetings/news/</loc>
-    <lastmod>2022-09-02T22:41:09+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wfst.github.io/news-and-meetings/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://wfst.github.io/zh/news-and-meetings/news/"
                 />
   </url><url>
     <loc>https://wfst.github.io/zh/science/time-domain/agns/</loc>
