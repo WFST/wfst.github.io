@@ -34,5 +34,15 @@
       <description>Star Formation Young Stars The mass accretion rate ($\dot{M}_{\rm acc}$) is a crucial parameter for understanding the evolution and dissipation of circumstellar disks, and therefore also for understanding the process of planet formation.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://wfst.github.io/science/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wfst.github.io/science/overview/</guid>
+      <description>title: &amp;ldquo;Overview&amp;rdquo; date: 2022-10-16T15:11:51+08:00 draft: true
+Science Goals   Survey the northern sky with the highest sensitivity to explore the variable universe and catch up different kinds of extragalactic transient events, which are either science breakthroughs such as early-phase supernovae, fast blue transients, tidal disruption events, multi-messneger conterparts or unknown in the current framework of astrophysics.</description>
+    </item>
+    
   </channel>
 </rss>
