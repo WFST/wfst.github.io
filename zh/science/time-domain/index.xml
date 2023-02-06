@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>时域科学 on WFST</title>
+    <link>https://wfst.github.io/zh/science/time-domain/</link>
+    <description>Recent content in 时域科学 on WFST</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 06 Sep 2022 15:11:51 +0800</lastBuildDate><atom:link href="https://wfst.github.io/zh/science/time-domain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multimessenger-events</title>
+      <link>https://wfst.github.io/zh/science/time-domain/multimessenger-events/</link>
+      <pubDate>Tue, 06 Sep 2022 15:11:51 +0800</pubDate>
+      
+      <guid>https://wfst.github.io/zh/science/time-domain/multimessenger-events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>supernovae</title>
+      <link>https://wfst.github.io/zh/science/time-domain/supernovae/</link>
+      <pubDate>Tue, 06 Sep 2022 15:11:51 +0800</pubDate>
+      
+      <guid>https://wfst.github.io/zh/science/time-domain/supernovae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TDEs</title>
+      <link>https://wfst.github.io/zh/science/time-domain/tdes/</link>
+      <pubDate>Tue, 06 Sep 2022 15:11:51 +0800</pubDate>
+      
+      <guid>https://wfst.github.io/zh/science/time-domain/tdes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AGNs</title>
+      <link>https://wfst.github.io/zh/science/time-domain/agns/</link>
+      <pubDate>Fri, 02 Sep 2022 22:41:09 +0800</pubDate>
+      
+      <guid>https://wfst.github.io/zh/science/time-domain/agns/</guid>
+      <description>啦啦啦 A team leaded by Prof. Tinggui Wang</description>
+    </item>
+    
+  </channel>
+</rss>
