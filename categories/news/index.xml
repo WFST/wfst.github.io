@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on WFST</title>
+    <link>https://wfst.github.io/categories/news/</link>
+    <description>Recent content in News on WFST</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 02 Sep 2022 22:41:09 +0800</lastBuildDate><atom:link href="https://wfst.github.io/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The first discovery of the hysteresis effect of optical iron emission in the TDE event</title>
+      <link>https://wfst.github.io/news/news/hysteresis_effect-tde/</link>
+      <pubDate>Fri, 02 Sep 2022 22:41:09 +0800</pubDate>
+      
+      <guid>https://wfst.github.io/news/news/hysteresis_effect-tde/</guid>
+      <description>A team leaded by Prof. Tinggui Wang from the Department of astronomy, University of science and technology of China first detected the hysteresis effect of optical iron emission in the TDE event.</description>
+    </item>
+    
+  </channel>
+</rss>
