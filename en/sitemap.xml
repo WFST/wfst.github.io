@@ -397,6 +397,18 @@
                 href="https://wfst.github.io/location/rio-furniture-6/"
                 />
   </url><url>
+    <loc>https://wfst.github.io/service/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/service/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/service/"
+                />
+  </url><url>
     <loc>https://wfst.github.io/location/</loc>
     <xhtml:link
                 rel="alternate"
