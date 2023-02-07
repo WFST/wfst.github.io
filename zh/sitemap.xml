@@ -92,48 +92,6 @@
     <loc>https://wfst.github.io/zh/science/time-domain/tdes/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
   </url><url>
-    <loc>https://wfst.github.io/zh/publications/publication/</loc>
-    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wfst.github.io/publications/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://wfst.github.io/zh/publications/publication/"
-                />
-  </url><url>
-    <loc>https://wfst.github.io/zh/education-and-outreach/multimedia/</loc>
-    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wfst.github.io/education-and-outreach/multimedia/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://wfst.github.io/zh/education-and-outreach/multimedia/"
-                />
-  </url><url>
-    <loc>https://wfst.github.io/zh/news-and-meetings/meetings/</loc>
-    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
-  </url><url>
-    <loc>https://wfst.github.io/zh/education-and-outreach/education/</loc>
-    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wfst.github.io/education-and-outreach/education/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://wfst.github.io/zh/education-and-outreach/education/"
-                />
-  </url><url>
     <loc>https://wfst.github.io/zh/publications/highlights/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
     <xhtml:link
@@ -147,56 +105,20 @@
                 href="https://wfst.github.io/zh/publications/highlights/"
                 />
   </url><url>
-    <loc>https://wfst.github.io/zh/science/time-domain/</loc>
+    <loc>https://wfst.github.io/zh/news-and-meetings/meetings/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wfst.github.io/science/time-domain/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://wfst.github.io/zh/science/time-domain/"
-                />
   </url><url>
-    <loc>https://wfst.github.io/zh/education-and-outreach/multimedia/video/</loc>
+    <loc>https://wfst.github.io/zh/publications/publication/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wfst.github.io/education-and-outreach/multimedia/video/"
+                href="https://wfst.github.io/publications/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://wfst.github.io/zh/education-and-outreach/multimedia/video/"
-                />
-  </url><url>
-    <loc>https://wfst.github.io/zh/survey-and-data/data-release/</loc>
-    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wfst.github.io/survey-and-data/data-release/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://wfst.github.io/zh/survey-and-data/data-release/"
-                />
-  </url><url>
-    <loc>https://wfst.github.io/zh/education-and-outreach/multimedia/picture/</loc>
-    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wfst.github.io/education-and-outreach/multimedia/picture/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://wfst.github.io/zh/education-and-outreach/multimedia/picture/"
+                href="https://wfst.github.io/zh/publications/publication/"
                 />
   </url><url>
     <loc>https://wfst.github.io/zh/survey-and-data/data-reduction-and-management/</loc>
@@ -212,8 +134,76 @@
                 href="https://wfst.github.io/zh/survey-and-data/data-reduction-and-management/"
                 />
   </url><url>
+    <loc>https://wfst.github.io/zh/education-and-outreach/multimedia/picture/</loc>
+    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/education-and-outreach/multimedia/picture/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/education-and-outreach/multimedia/picture/"
+                />
+  </url><url>
+    <loc>https://wfst.github.io/zh/education-and-outreach/multimedia/</loc>
+    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/education-and-outreach/multimedia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/education-and-outreach/multimedia/"
+                />
+  </url><url>
+    <loc>https://wfst.github.io/zh/survey-and-data/survey-strategy-and-plan/</loc>
+    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
+  </url><url>
+    <loc>https://wfst.github.io/zh/education-and-outreach/education/</loc>
+    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/education-and-outreach/education/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/education-and-outreach/education/"
+                />
+  </url><url>
+    <loc>https://wfst.github.io/zh/survey-and-data/data-release/</loc>
+    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/survey-and-data/data-release/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/survey-and-data/data-release/"
+                />
+  </url><url>
     <loc>https://wfst.github.io/zh/news-and-meetings/news/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
+  </url><url>
+    <loc>https://wfst.github.io/zh/science/time-domain/</loc>
+    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/science/time-domain/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/science/time-domain/"
+                />
   </url><url>
     <loc>https://wfst.github.io/zh/science/galaxy-formation-and-cosmology/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
@@ -228,8 +218,18 @@
                 href="https://wfst.github.io/zh/science/galaxy-formation-and-cosmology/"
                 />
   </url><url>
-    <loc>https://wfst.github.io/zh/survey-and-data/survey-strategy-and-plan/</loc>
+    <loc>https://wfst.github.io/zh/education-and-outreach/multimedia/video/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/education-and-outreach/multimedia/video/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/education-and-outreach/multimedia/video/"
+                />
   </url><url>
     <loc>https://wfst.github.io/zh/science/milky-way-and-its-satellites/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>

@@ -1,0 +1,14 @@
+{
+  "name": "WFST",
+  "short_name": "WFST",
+  "lang": "en-US",
+  "theme_color": "rgb(90,148,248)",
+  "background_color": "#fff",
+
+  
+  
+  
+  
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
