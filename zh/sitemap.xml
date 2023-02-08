@@ -59,6 +59,16 @@
   </url><url>
     <loc>https://wfst.github.io/zh/news-and-meetings/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/news-and-meetings/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/news-and-meetings/"
+                />
   </url><url>
     <loc>https://wfst.github.io/zh/publications/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
@@ -107,6 +117,16 @@
   </url><url>
     <loc>https://wfst.github.io/zh/news-and-meetings/meetings/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/news-and-meetings/meetings/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/news-and-meetings/meetings/"
+                />
   </url><url>
     <loc>https://wfst.github.io/zh/publications/publication/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
@@ -191,6 +211,16 @@
   </url><url>
     <loc>https://wfst.github.io/zh/news-and-meetings/news/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/news-and-meetings/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/news-and-meetings/news/"
+                />
   </url><url>
     <loc>https://wfst.github.io/zh/science/time-domain/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
@@ -379,6 +409,16 @@
   </url><url>
     <loc>https://wfst.github.io/zh/news-and-meetings/news/hysteresis_effect-tde/</loc>
     <lastmod>2022-09-02T22:41:09+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/news-and-meetings/news/hysteresis_effect-tde/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/news-and-meetings/news/hysteresis_effect-tde/"
+                />
   </url><url>
     <loc>https://wfst.github.io/zh/location/rio-furniture-1/</loc>
     <xhtml:link
