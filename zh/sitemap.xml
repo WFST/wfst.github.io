@@ -252,6 +252,32 @@
                 href="https://wfst.github.io/zh/science/galaxies-and-cosmology/"
                 />
   </url><url>
+    <loc>https://wfst.github.io/zh/science/time-domain/agn/</loc>
+    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/science/time-domain/agn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/science/time-domain/agn/"
+                />
+  </url><url>
+    <loc>https://wfst.github.io/zh/science/time-domain/tde/</loc>
+    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/science/time-domain/tde/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/science/time-domain/tde/"
+                />
+  </url><url>
     <loc>https://wfst.github.io/zh/education-and-outreach/multimedia/video/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
     <xhtml:link
@@ -518,18 +544,6 @@
                 href="https://wfst.github.io/zh/service/"
                 />
   </url><url>
-    <loc>https://wfst.github.io/zh/about/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wfst.github.io/about/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://wfst.github.io/zh/about/about/"
-                />
-  </url><url>
     <loc>https://wfst.github.io/zh/location/</loc>
     <xhtml:link
                 rel="alternate"
@@ -540,6 +554,18 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://wfst.github.io/zh/location/"
+                />
+  </url><url>
+    <loc>https://wfst.github.io/zh/about/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/about/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/about/about/"
                 />
   </url>
 </urlset>

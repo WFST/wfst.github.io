@@ -41,6 +41,19 @@
                 href="https://wfst.github.io/science/asteroids-and-the-solar-system/"
                 />
   </url><url>
+    <loc>https://wfst.github.io/science/time-domain/agn/</loc>
+    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/science/time-domain/agn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/science/time-domain/agn/"
+                />
+  </url><url>
     <loc>https://wfst.github.io/survey-and-data/alert-stream/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
     <xhtml:link
@@ -279,6 +292,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://wfst.github.io/survey-and-data/"
+                />
+  </url><url>
+    <loc>https://wfst.github.io/science/time-domain/tde/</loc>
+    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/science/time-domain/tde/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/science/time-domain/tde/"
                 />
   </url><url>
     <loc>https://wfst.github.io/science/time-domain/</loc>
