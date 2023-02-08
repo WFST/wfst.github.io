@@ -54,9 +54,6 @@
                 href="https://wfst.github.io/zh/education-and-outreach/"
                 />
   </url><url>
-    <loc>https://wfst.github.io/zh/science/time-domain/multimessenger-events/</loc>
-    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
-  </url><url>
     <loc>https://wfst.github.io/zh/news-and-meetings/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
     <xhtml:link
@@ -83,9 +80,6 @@
                 href="https://wfst.github.io/zh/publications/"
                 />
   </url><url>
-    <loc>https://wfst.github.io/zh/science/time-domain/supernovae/</loc>
-    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
-  </url><url>
     <loc>https://wfst.github.io/zh/survey-and-data/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
     <xhtml:link
@@ -98,9 +92,6 @@
                 hreflang="zh"
                 href="https://wfst.github.io/zh/survey-and-data/"
                 />
-  </url><url>
-    <loc>https://wfst.github.io/zh/science/time-domain/tdes/</loc>
-    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
   </url><url>
     <loc>https://wfst.github.io/zh/publications/highlights/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
@@ -165,6 +156,19 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://wfst.github.io/zh/education-and-outreach/multimedia/picture/"
+                />
+  </url><url>
+    <loc>https://wfst.github.io/zh/science/time-domain/multimessenger-event/</loc>
+    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/science/time-domain/multimessenger-event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/science/time-domain/multimessenger-event/"
                 />
   </url><url>
     <loc>https://wfst.github.io/zh/education-and-outreach/multimedia/</loc>
@@ -235,17 +239,17 @@
                 href="https://wfst.github.io/zh/science/time-domain/"
                 />
   </url><url>
-    <loc>https://wfst.github.io/zh/science/galaxy-formation-and-cosmology/</loc>
+    <loc>https://wfst.github.io/zh/science/galaxies-and-cosmology/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wfst.github.io/science/galaxy-formation-and-cosmology/"
+                href="https://wfst.github.io/science/galaxies-and-cosmology/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://wfst.github.io/zh/science/galaxy-formation-and-cosmology/"
+                href="https://wfst.github.io/zh/science/galaxies-and-cosmology/"
                 />
   </url><url>
     <loc>https://wfst.github.io/zh/education-and-outreach/multimedia/video/</loc>
@@ -261,17 +265,30 @@
                 href="https://wfst.github.io/zh/education-and-outreach/multimedia/video/"
                 />
   </url><url>
-    <loc>https://wfst.github.io/zh/science/milky-way-and-its-satellites/</loc>
+    <loc>https://wfst.github.io/zh/science/time-domain/supernova/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wfst.github.io/science/milky-way-and-its-satellites/"
+                href="https://wfst.github.io/science/time-domain/supernova/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://wfst.github.io/zh/science/milky-way-and-its-satellites/"
+                href="https://wfst.github.io/zh/science/time-domain/supernova/"
+                />
+  </url><url>
+    <loc>https://wfst.github.io/zh/science/milky-way-and-neighbours/</loc>
+    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/science/milky-way-and-neighbours/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/science/milky-way-and-neighbours/"
                 />
   </url><url>
     <loc>https://wfst.github.io/zh/survey-and-data/alert-stream/</loc>
@@ -338,9 +355,6 @@
                 hreflang="zh"
                 href="https://wfst.github.io/zh/about/camera/"
                 />
-  </url><url>
-    <loc>https://wfst.github.io/zh/science/time-domain/agns/</loc>
-    <lastmod>2022-09-02T22:41:09+08:00</lastmod>
   </url><url>
     <loc>https://wfst.github.io/zh/categories/</loc>
     <lastmod>2022-09-02T22:41:09+08:00</lastmod>
