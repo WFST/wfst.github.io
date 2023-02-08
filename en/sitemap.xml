@@ -171,19 +171,6 @@
                 href="https://wfst.github.io/science/milky-way-and-neighbours/"
                 />
   </url><url>
-    <loc>https://wfst.github.io/education-and-outreach/multimedia/</loc>
-    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://wfst.github.io/zh/education-and-outreach/multimedia/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wfst.github.io/education-and-outreach/multimedia/"
-                />
-  </url><url>
     <loc>https://wfst.github.io/science/time-domain/multimessenger-event/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
     <xhtml:link
@@ -224,19 +211,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://wfst.github.io/news-and-meetings/"
-                />
-  </url><url>
-    <loc>https://wfst.github.io/education-and-outreach/multimedia/picture/</loc>
-    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://wfst.github.io/zh/education-and-outreach/multimedia/picture/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wfst.github.io/education-and-outreach/multimedia/picture/"
                 />
   </url><url>
     <loc>https://wfst.github.io/publications/publication/</loc>
@@ -320,17 +294,17 @@
                 href="https://wfst.github.io/science/time-domain/"
                 />
   </url><url>
-    <loc>https://wfst.github.io/education-and-outreach/multimedia/video/</loc>
+    <loc>https://wfst.github.io/education-and-outreach/video/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://wfst.github.io/zh/education-and-outreach/multimedia/video/"
+                href="https://wfst.github.io/zh/education-and-outreach/video/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wfst.github.io/education-and-outreach/multimedia/video/"
+                href="https://wfst.github.io/education-and-outreach/video/"
                 />
   </url><url>
     <loc>https://wfst.github.io/news/news/</loc>
@@ -360,6 +334,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://wfst.github.io/about/camera/"
+                />
+  </url><url>
+    <loc>https://wfst.github.io/about/site/</loc>
+    <lastmod>2022-09-06T14:40:06+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/about/site/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/about/site/"
                 />
   </url><url>
     <loc>https://wfst.github.io/about/team/</loc>
@@ -469,76 +456,88 @@
     <loc>https://wfst.github.io/news/news/hysteresis_effect-tde/</loc>
     <lastmod>2022-09-02T22:41:09+08:00</lastmod>
   </url><url>
-    <loc>https://wfst.github.io/location/rio-furniture-1/</loc>
+    <loc>https://wfst.github.io/album/rio-furniture-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://wfst.github.io/zh/location/rio-furniture-1/"
+                href="https://wfst.github.io/zh/album/rio-furniture-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wfst.github.io/location/rio-furniture-1/"
+                href="https://wfst.github.io/album/rio-furniture-1/"
                 />
   </url><url>
-    <loc>https://wfst.github.io/location/rio-furniture-2/</loc>
+    <loc>https://wfst.github.io/album/rio-furniture-2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://wfst.github.io/zh/location/rio-furniture-2/"
+                href="https://wfst.github.io/zh/album/rio-furniture-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wfst.github.io/location/rio-furniture-2/"
+                href="https://wfst.github.io/album/rio-furniture-2/"
                 />
   </url><url>
-    <loc>https://wfst.github.io/location/rio-furniture-3/</loc>
+    <loc>https://wfst.github.io/album/rio-furniture-3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://wfst.github.io/zh/location/rio-furniture-3/"
+                href="https://wfst.github.io/zh/album/rio-furniture-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wfst.github.io/location/rio-furniture-3/"
+                href="https://wfst.github.io/album/rio-furniture-3/"
                 />
   </url><url>
-    <loc>https://wfst.github.io/location/rio-furniture-4/</loc>
+    <loc>https://wfst.github.io/album/rio-furniture-4/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://wfst.github.io/zh/location/rio-furniture-4/"
+                href="https://wfst.github.io/zh/album/rio-furniture-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wfst.github.io/location/rio-furniture-4/"
+                href="https://wfst.github.io/album/rio-furniture-4/"
                 />
   </url><url>
-    <loc>https://wfst.github.io/location/rio-furniture-5/</loc>
+    <loc>https://wfst.github.io/album/rio-furniture-5/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://wfst.github.io/zh/location/rio-furniture-5/"
+                href="https://wfst.github.io/zh/album/rio-furniture-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wfst.github.io/location/rio-furniture-5/"
+                href="https://wfst.github.io/album/rio-furniture-5/"
                 />
   </url><url>
-    <loc>https://wfst.github.io/location/rio-furniture-6/</loc>
+    <loc>https://wfst.github.io/album/rio-furniture-6/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://wfst.github.io/zh/location/rio-furniture-6/"
+                href="https://wfst.github.io/zh/album/rio-furniture-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wfst.github.io/location/rio-furniture-6/"
+                href="https://wfst.github.io/album/rio-furniture-6/"
+                />
+  </url><url>
+    <loc>https://wfst.github.io/album/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/album/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/album/"
                 />
   </url><url>
     <loc>https://wfst.github.io/service/</loc>
@@ -551,18 +550,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://wfst.github.io/service/"
-                />
-  </url><url>
-    <loc>https://wfst.github.io/location/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://wfst.github.io/zh/location/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wfst.github.io/location/"
                 />
   </url><url>
     <loc>https://wfst.github.io/about/about/</loc>
