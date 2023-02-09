@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Survey-and-data on WFST</title>
+    <link>https://wfst.github.io/zh/survey-and-data/</link>
+    <description>Recent content in Survey-and-data on WFST</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 16 Oct 2022 15:11:51 +0800</lastBuildDate><atom:link href="https://wfst.github.io/zh/survey-and-data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overview</title>
+      <link>https://wfst.github.io/zh/survey-and-data/overview/</link>
+      <pubDate>Sun, 16 Oct 2022 15:11:51 +0800</pubDate>
+      
+      <guid>https://wfst.github.io/zh/survey-and-data/overview/</guid>
+      <description>Science Goals   Survey the northern sky with the highest sensitivity to explore the variable universe and catch up different kinds of extragalactic transient events, which are either science breakthroughs such as early-phase supernovae, fast blue transients, tidal disruption events, multi-messneger conterparts or unknown in the current framework of astrophysics.</description>
+    </item>
+    
+    <item>
+      <title>图像相减</title>
+      <link>https://wfst.github.io/zh/survey-and-data/data-reduction-and-management/</link>
+      <pubDate>Tue, 06 Sep 2022 15:11:51 +0800</pubDate>
+      
+      <guid>https://wfst.github.io/zh/survey-and-data/data-reduction-and-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>巡天方案</title>
+      <link>https://wfst.github.io/zh/survey-and-data/survey-strategy/</link>
+      <pubDate>Tue, 06 Sep 2022 15:11:51 +0800</pubDate>
+      
+      <guid>https://wfst.github.io/zh/survey-and-data/survey-strategy/</guid>
+      <description>There are two planned key programs of the WFST 6-year</description>
+    </item>
+    
+    <item>
+      <title>数据发布</title>
+      <link>https://wfst.github.io/zh/survey-and-data/data-release/</link>
+      <pubDate>Tue, 06 Sep 2022 15:11:51 +0800</pubDate>
+      
+      <guid>https://wfst.github.io/zh/survey-and-data/data-release/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>预警</title>
+      <link>https://wfst.github.io/zh/survey-and-data/alert-stream/</link>
+      <pubDate>Tue, 06 Sep 2022 15:11:51 +0800</pubDate>
+      
+      <guid>https://wfst.github.io/zh/survey-and-data/alert-stream/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

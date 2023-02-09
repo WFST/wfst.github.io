@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://wfst.github.io/zh/</loc>
-    <lastmod>2022-09-06T15:14:45+08:00</lastmod>
+    <lastmod>2022-10-16T15:11:51+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,6 +13,32 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://wfst.github.io/zh/"
+                />
+  </url><url>
+    <loc>https://wfst.github.io/zh/survey-and-data/overview/</loc>
+    <lastmod>2022-10-16T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/survey-and-data/overview/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/survey-and-data/overview/"
+                />
+  </url><url>
+    <loc>https://wfst.github.io/zh/survey-and-data/</loc>
+    <lastmod>2022-10-16T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/survey-and-data/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/survey-and-data/"
                 />
   </url><url>
     <loc>https://wfst.github.io/zh/science/</loc>
@@ -119,6 +145,19 @@
                 href="https://wfst.github.io/zh/publications/publication/"
                 />
   </url><url>
+    <loc>https://wfst.github.io/zh/survey-and-data/data-reduction-and-management/</loc>
+    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/survey-and-data/data-reduction-and-management/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/survey-and-data/data-reduction-and-management/"
+                />
+  </url><url>
     <loc>https://wfst.github.io/zh/science/time-domain/multimessenger-event/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
     <xhtml:link
@@ -132,6 +171,19 @@
                 href="https://wfst.github.io/zh/science/time-domain/multimessenger-event/"
                 />
   </url><url>
+    <loc>https://wfst.github.io/zh/survey-and-data/survey-strategy/</loc>
+    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/survey-and-data/survey-strategy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/survey-and-data/survey-strategy/"
+                />
+  </url><url>
     <loc>https://wfst.github.io/zh/education-and-outreach/education/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
     <xhtml:link
@@ -143,6 +195,19 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://wfst.github.io/zh/education-and-outreach/education/"
+                />
+  </url><url>
+    <loc>https://wfst.github.io/zh/survey-and-data/data-release/</loc>
+    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/survey-and-data/data-release/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/survey-and-data/data-release/"
                 />
   </url><url>
     <loc>https://wfst.github.io/zh/news-and-meetings/news/</loc>
@@ -247,6 +312,19 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://wfst.github.io/zh/science/milky-way-and-neighbours/"
+                />
+  </url><url>
+    <loc>https://wfst.github.io/zh/survey-and-data/alert-stream/</loc>
+    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/survey-and-data/alert-stream/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/survey-and-data/alert-stream/"
                 />
   </url><url>
     <loc>https://wfst.github.io/zh/about/</loc>
