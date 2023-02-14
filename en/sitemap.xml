@@ -567,6 +567,16 @@
                 />
   </url><url>
     <loc>https://wfst.github.io/about/about-bak/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/about/about-bak/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/about/about-bak/"
+                />
   </url><url>
     <loc>https://wfst.github.io/about/about/</loc>
     <xhtml:link
