@@ -8,7 +8,7 @@
     <language>en-US</language>
     <lastBuildDate>Tue, 06 Sep 2022 15:11:51 +0800</lastBuildDate><atom:link href="https://wfst.github.io/science/time-domain/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AGN</title>
+      <title>Active Galactic Nucleus</title>
       <link>https://wfst.github.io/science/time-domain/agn/</link>
       <pubDate>Tue, 06 Sep 2022 15:11:51 +0800</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>Multimessenger-event</title>
+      <title>Multi-messenger Event</title>
       <link>https://wfst.github.io/science/time-domain/multimessenger-event/</link>
       <pubDate>Tue, 06 Sep 2022 15:11:51 +0800</pubDate>
       
@@ -26,16 +26,16 @@
     </item>
     
     <item>
-      <title>supernova</title>
+      <title>Supernova</title>
       <link>https://wfst.github.io/science/time-domain/supernova/</link>
       <pubDate>Tue, 06 Sep 2022 15:11:51 +0800</pubDate>
       
       <guid>https://wfst.github.io/science/time-domain/supernova/</guid>
-      <description>The observation of supernovae (SNe) has a long history. The first reliably recorded SN, ``SN~185&#39;&#39;, dated back to AD 185, was reported in $\it{Book\ of\ the\ Later\ Han\ Dynasty}$ by ancient Chinese astronomers.</description>
+      <description>The observation of supernovae (SNe) has a long history. The first reliably recorded SN, &amp;ldquo;SN~185&#39;&#39;, dated back to AD 185, was reported in $\it{Book\ of\ the\ Later\ Han\ Dynasty}$ by ancient Chinese astronomers.</description>
     </item>
     
     <item>
-      <title>TDE</title>
+      <title>Tidal Disruption Event</title>
       <link>https://wfst.github.io/science/time-domain/tde/</link>
       <pubDate>Tue, 06 Sep 2022 15:11:51 +0800</pubDate>
       
