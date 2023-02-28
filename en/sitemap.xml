@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://wfst.github.io/</loc>
-    <lastmod>2022-10-16T15:11:51+08:00</lastmod>
+    <lastmod>2023-02-28T15:11:51+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -13,6 +13,45 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://wfst.github.io/"
+                />
+  </url><url>
+    <loc>https://wfst.github.io/science/</loc>
+    <lastmod>2023-02-28T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/science/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/science/"
+                />
+  </url><url>
+    <loc>https://wfst.github.io/science/time-domain/supernova/</loc>
+    <lastmod>2023-02-28T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/science/time-domain/supernova/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/science/time-domain/supernova/"
+                />
+  </url><url>
+    <loc>https://wfst.github.io/science/time-domain/tde/</loc>
+    <lastmod>2023-01-06T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/science/time-domain/tde/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/science/time-domain/tde/"
                 />
   </url><url>
     <loc>https://wfst.github.io/survey-and-data/overview/</loc>
@@ -41,19 +80,6 @@
                 href="https://wfst.github.io/survey-and-data/"
                 />
   </url><url>
-    <loc>https://wfst.github.io/science/</loc>
-    <lastmod>2022-09-06T15:14:45+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://wfst.github.io/zh/science/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wfst.github.io/science/"
-                />
-  </url><url>
     <loc>https://wfst.github.io/science/asteroids-and-the-solar-system/</loc>
     <lastmod>2022-09-06T15:14:45+08:00</lastmod>
     <xhtml:link
@@ -65,19 +91,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://wfst.github.io/science/asteroids-and-the-solar-system/"
-                />
-  </url><url>
-    <loc>https://wfst.github.io/science/time-domain/agn/</loc>
-    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://wfst.github.io/zh/science/time-domain/agn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wfst.github.io/science/time-domain/agn/"
                 />
   </url><url>
     <loc>https://wfst.github.io/survey-and-data/alert-stream/</loc>
@@ -262,19 +275,6 @@
                 href="https://wfst.github.io/publications/"
                 />
   </url><url>
-    <loc>https://wfst.github.io/science/time-domain/supernova/</loc>
-    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://wfst.github.io/zh/science/time-domain/supernova/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wfst.github.io/science/time-domain/supernova/"
-                />
-  </url><url>
     <loc>https://wfst.github.io/survey-and-data/survey-strategy/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
     <xhtml:link
@@ -286,19 +286,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://wfst.github.io/survey-and-data/survey-strategy/"
-                />
-  </url><url>
-    <loc>https://wfst.github.io/science/time-domain/tde/</loc>
-    <lastmod>2022-09-06T15:11:51+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://wfst.github.io/zh/science/time-domain/tde/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wfst.github.io/science/time-domain/tde/"
                 />
   </url><url>
     <loc>https://wfst.github.io/science/time-domain/</loc>
@@ -470,6 +457,19 @@
                 href="https://wfst.github.io/news-and-meetings/news/hysteresis_effect-tde/"
                 />
   </url><url>
+    <loc>https://wfst.github.io/science/time-domain/agn/</loc>
+    <lastmod>2021-09-06T15:11:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/science/time-domain/agn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/science/time-domain/agn/"
+                />
+  </url><url>
     <loc>https://wfst.github.io/album/rio-furniture-1/</loc>
     <xhtml:link
                 rel="alternate"
@@ -481,6 +481,12 @@
                 hreflang="en"
                 href="https://wfst.github.io/album/rio-furniture-1/"
                 />
+  </url><url>
+    <loc>https://wfst.github.io/album/rio-furniture-10/</loc>
+  </url><url>
+    <loc>https://wfst.github.io/album/rio-furniture-11/</loc>
+  </url><url>
+    <loc>https://wfst.github.io/album/rio-furniture-12/</loc>
   </url><url>
     <loc>https://wfst.github.io/album/rio-furniture-2/</loc>
     <xhtml:link
@@ -541,6 +547,12 @@
                 hreflang="en"
                 href="https://wfst.github.io/album/rio-furniture-6/"
                 />
+  </url><url>
+    <loc>https://wfst.github.io/album/rio-furniture-7/</loc>
+  </url><url>
+    <loc>https://wfst.github.io/album/rio-furniture-8/</loc>
+  </url><url>
+    <loc>https://wfst.github.io/album/rio-furniture-9/</loc>
   </url><url>
     <loc>https://wfst.github.io/album/</loc>
     <xhtml:link
