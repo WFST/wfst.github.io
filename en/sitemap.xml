@@ -225,16 +225,6 @@
   </url><url>
     <loc>https://wfst.github.io/news-and-meetings/news/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://wfst.github.io/zh/news-and-meetings/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wfst.github.io/news-and-meetings/news/"
-                />
   </url><url>
     <loc>https://wfst.github.io/news-and-meetings/</loc>
     <lastmod>2022-09-06T15:11:51+08:00</lastmod>
@@ -379,84 +369,6 @@
                 href="https://wfst.github.io/about/telescope/"
                 />
   </url><url>
-    <loc>https://wfst.github.io/categories/</loc>
-    <lastmod>2022-09-02T22:41:09+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://wfst.github.io/zh/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wfst.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://wfst.github.io/tags/hysteresis-effect/</loc>
-    <lastmod>2022-09-02T22:41:09+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://wfst.github.io/zh/tags/hysteresis-effect/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wfst.github.io/tags/hysteresis-effect/"
-                />
-  </url><url>
-    <loc>https://wfst.github.io/categories/news/</loc>
-    <lastmod>2022-09-02T22:41:09+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://wfst.github.io/zh/categories/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wfst.github.io/categories/news/"
-                />
-  </url><url>
-    <loc>https://wfst.github.io/tags/</loc>
-    <lastmod>2022-09-02T22:41:09+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://wfst.github.io/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wfst.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://wfst.github.io/tags/tde/</loc>
-    <lastmod>2022-09-02T22:41:09+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://wfst.github.io/zh/tags/tde/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wfst.github.io/tags/tde/"
-                />
-  </url><url>
-    <loc>https://wfst.github.io/news-and-meetings/news/hysteresis_effect-tde/</loc>
-    <lastmod>2022-09-02T22:41:09+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://wfst.github.io/zh/news-and-meetings/news/hysteresis_effect-tde/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wfst.github.io/news-and-meetings/news/hysteresis_effect-tde/"
-                />
-  </url><url>
     <loc>https://wfst.github.io/science/time-domain/agn/</loc>
     <lastmod>2021-09-06T15:11:51+08:00</lastmod>
     <xhtml:link
@@ -560,6 +472,18 @@
   </url><url>
     <loc>https://wfst.github.io/album/rio-furniture-9/</loc>
   </url><url>
+    <loc>https://wfst.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/categories/"
+                />
+  </url><url>
     <loc>https://wfst.github.io/album/</loc>
     <xhtml:link
                 rel="alternate"
@@ -582,6 +506,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://wfst.github.io/service/"
+                />
+  </url><url>
+    <loc>https://wfst.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wfst.github.io/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wfst.github.io/tags/"
                 />
   </url><url>
     <loc>https://wfst.github.io/about/about-bak/</loc>
